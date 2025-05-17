@@ -1,0 +1,9 @@
+{
+  "name": "@dreamcatcher/speech-to-text",
+  "version": "0.0.1",
+  "exports": "./mod.ts",
+  "tasks": {
+    "dev": "deno run --watch --allow-all mod.ts",
+    "test": "deno test --watch --allow-all"
+  }
+}

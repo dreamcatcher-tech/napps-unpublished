@@ -1,0 +1,5 @@
+{
+  "name": "@artifact/reasoner",
+  "version": "0.0.2",
+  "exports": { ".": "./mod.ts", "./napp.json": "./napp.json" }
+}
